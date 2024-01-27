@@ -1,0 +1,18 @@
+.container{
+    padding-top: 2rem;
+    position: relative;
+    min-height: 91%;
+    background: #a19131;
+    text-align: center;
+}
+
+.title-text{
+    color: white;
+    font-size: 30px;
+}
+
+.description {
+  color: white;
+  text-align: center;
+  font-size: 22px;
+}
